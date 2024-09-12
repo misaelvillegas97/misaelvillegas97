@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Polodev as an Sr Consultant Software Engineer 👨🏽‍💻.<br>🌱 I’m currently learning about Architecture, Dockerization, and Cloud Computing.<br>💬 Ask me about anything, and I'll be here to help you! <br>⚡ Fun fact, I start working before finishing my formal career.
+🔭 I’m currently working on Polodev as a Sr Consultant Software Engineer 👨🏽‍💻.<br>🌱 I’m currently learning about Architecture, Dockerization, and Cloud Computing.<br>💬 Ask me about anything, and I'll be here to help you! <br>⚡ Fun fact, I start working before finishing my formal career.
 
 
 ## 🌐 Socials:
